@@ -5,7 +5,7 @@ class Contact extends Component {
     render(){
         return(
             <div className="contact-page">
-            <Grid className="contact-page">
+            <Grid className="contact-grid">
             <Cell cell={6}>
             Hall Page
             </Cell>
