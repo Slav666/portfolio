@@ -64,11 +64,37 @@ margin: auto;
   text-align: center;
   justify-content: center;
   width: 80%;
-  height: 550px;
+  height: 100%;
   background: white;
   color: black;
   border: 2px solid red;
   margin-bottom: 20px;
-  
+}
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
 
+.contact-grid hr {
+border-top: 5px dotted black;
+width: 50%;
+margin: auto;
+}
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
+
+}
+
+/* Resume Page */
+
+.resume-rigth-col {
+background: #27221F;
+color: white;
+padding: 2em;
+}
+
+.projects-grid {
+  display: flex;
+  padding-right: 1em;
+  
 }
